@@ -11,5 +11,10 @@ data = pd.read_excel("data.xlsx", index_col = 0)
 print(data)
 
 print("Something new in the main branch")
+<<<<<<< HEAD
 print("I uploaded everything on github.")
 print("New branch on github")
+=======
+print("I uploaded everything on github")
+print("Hi, It's Mohamad")
+>>>>>>> e067367b26b894b887e36b6cc975f6d56b80d11f
